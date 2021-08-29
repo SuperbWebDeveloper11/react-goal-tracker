@@ -2,6 +2,8 @@
 
 Goal Tracker allow users to create goals, delete goals and mark goals as finished
 
+![Screenshot](https://github.com/pedrasfloki/react-goal-tracker/blob/main/goal%20tracker.png)
+
 ### `Here how users will use the app`
 
 - when the page load, you will see previously created goals
