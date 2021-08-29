@@ -1,0 +1,29 @@
+{
+  "goals": [
+    {
+      "text": "Doing 30 minutes home workout",
+      "finished": false,
+      "id": 1
+    },
+    {
+      "text": "Upload Goal Tracker to GitHub",
+      "finished": true,
+      "id": 2
+    },
+    {
+      "text": "Listening to the audio book \"Eat That Frog\" for 30 minutes",
+      "finished": true,
+      "id": 3
+    },
+    {
+      "text": "Finish README.md file of Goal Tracker",
+      "finished": true,
+      "id": 4
+    },
+    {
+      "text": "Cleaning the House",
+      "finished": true,
+      "id": 5
+    }
+  ]
+}
