@@ -17,4 +17,4 @@ Goal Tracker allow users to create goals, delete goals and mark goals as finishe
 - **json-server:** for the server-side
 - **bootstrap:** for the design
 - **bootstrap-icons:** for the design
-- **axios:** to make XMLHttpRequests from the browser
+- **axios:** to make XMLHttpRequests
